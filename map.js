@@ -129,7 +129,7 @@ module.exports = {
   PLN: 'zł',
   PYG: 'Gs',
   QAR: '﷼',
-  RMB: '￥',
+  RMB: '元',
   RON: 'lei',
   RSD: 'Дин.',
   RUB: '₽',
